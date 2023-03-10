@@ -1,0 +1,33 @@
+.Add-todo{
+  background-color: blanchedalmond;
+  width:70px;
+  height: 70px;
+  border-radius: 5px;
+
+}
+.App{
+  
+  background-image: linear-gradient(darkblue,black);
+}
+
+h3{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border:solid;
+  color: white;
+}
+
+.Input{
+  height: 30px;
+  width:300px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 5%;
+  margin-right: 25px;
+  padding: 15px;
+  background-color: cornsilk;
+  color: black;
+}
+
